@@ -1,0 +1,1 @@
+Build a docker container, publish it to Google Container Registry, and deploy to GKE. Deploy a container to an Amazon ECS service powered by AWS Fargate or Amazon EC2.
